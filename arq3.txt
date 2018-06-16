@@ -1,2 +1,3 @@
-verificando stash 1
-altercao realizada na branch dev
+acionando antes
+verificando stash 1 - 4
+adicinado no meio
