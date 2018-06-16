@@ -1,1 +1,2 @@
 verificando stash 1
+altercao realizada na branch dev
