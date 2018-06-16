@@ -1,3 +1,7 @@
 verificando stash 1
 mudei isso aqui
 altercao realizada na branch dev
+acionando antes
+verificando stash 1 - 4
+adicinado no meio
+
