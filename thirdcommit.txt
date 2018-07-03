@@ -1,3 +1,4 @@
 one line commit
+add a between line
 second line commit
 
